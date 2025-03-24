@@ -7,7 +7,7 @@
 
 This project is made by Computer Science students for an IoT course.
 
-**Home&Co** is a project using **ESP32** dev boards and a **Raspberry Pi 3B+** to monitor, control and automate home appliances like the lights, heaters, front door, water valves for watering plants, etc.
+**Home&Co** (Co for Connect, Control, Company) is a project using **ESP32** dev boards and a **Raspberry Pi 3B+** to monitor, control and automate home appliances like the lights, heaters, front door, water valves for watering plants, etc.
 
 Its objectives are to provide **security**, **control**, **comfort**, **peace of mind** and **energy saving** to your home.
 
