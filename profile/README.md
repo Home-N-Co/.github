@@ -32,7 +32,7 @@ You can **automate the heaters** to activate at any time of the day, to find a w
 
 ### 4. Peace of mind
 
-You won't have to go through your check list three times before going out!
+You won't have to go through your check list three times or ask your neighbour to water your plants before going out!
 
 You can **monitor your house from any device** using the website in **real time**: from the _presence detectors_ to the _lights_, _heaters_, _humidity of the plants_ and _temperature of any room_.
 
