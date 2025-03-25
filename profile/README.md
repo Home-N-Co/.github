@@ -28,7 +28,7 @@ You have the **full control of your house** from any device.
 
 ### 3. Comfort
 
-You can **automate the heaters** to activate at any time of the day, to find a warm house we coming back from a hike, vacation or any activity.
+You can **automate the heaters** to activate at any time of the day, to find a warm house when coming back from a hike, vacation or any activity.
 
 ### 4. Peace of mind
 
